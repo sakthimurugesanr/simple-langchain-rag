@@ -1,0 +1,3 @@
+# The CLI still uses only built-in modules. Streamlit powers the optional web UI.
+# Version checked against the official PyPI release on 27 October 2026.
+streamlit==1.66.1

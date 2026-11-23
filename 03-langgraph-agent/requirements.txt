@@ -1,0 +1,2 @@
+# Reserved for Steps 4–5: pin a compatible LangGraph/MCP stack with the working examples.
+# No agent application exists in this scaffold yet.

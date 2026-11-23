@@ -1,0 +1,16 @@
+# Bind locally so private keys and conversations stay on this computer by default.
+[server]
+address = "127.0.0.1"
+port = 8502
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#37734a"
+backgroundColor = "#fafbf7"
+secondaryBackgroundColor = "#f0f3eb"
+textColor = "#203229"
+font = "sans serif"

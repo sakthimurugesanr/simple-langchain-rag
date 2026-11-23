@@ -1,0 +1,2 @@
+# Reserved for Step 2: current compatible package pins will accompany actual code.
+# No RAG application exists in this scaffold yet.

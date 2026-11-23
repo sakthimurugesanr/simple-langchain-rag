@@ -1,0 +1,2 @@
+# Reserved for Step 3: verify current LangChain integrations together before pinning.
+# No LangChain application exists in this scaffold yet.
